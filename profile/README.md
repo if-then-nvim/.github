@@ -7,7 +7,7 @@
 
 <br>
 
-<h2 align="left">
+<h2 align="center">
   <a href="https://github.com/if-then-nvim/if.nvim">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/if-then-nvim/if.nvim/main/assets/logo-dark.svg">
@@ -24,7 +24,7 @@
 
 <br>
 
-<h2 align="left">
+<h2 align="center">
   <a href="https://github.com/if-then-nvim/if.db">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/if-then-nvim/if.db/main/assets/logo-dark.svg">
