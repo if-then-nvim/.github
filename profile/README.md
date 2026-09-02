@@ -38,3 +38,14 @@
     <img src="https://raw.githubusercontent.com/if-then-nvim/if.db/main/screenshots/hero.webp" width="100%" alt="if.db">
   </a>
 </p>
+
+<br>
+
+<h2 align="center">
+  <a href="https://github.com/if-then-nvim/if.lsp">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/if-then-nvim/if.lsp/main/assets/logo-dark.svg">
+      <img src="https://raw.githubusercontent.com/if-then-nvim/if.lsp/main/assets/logo-light.svg" height="44" alt="if.lsp">
+    </picture>
+  </a>
+</h2>
