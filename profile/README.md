@@ -49,3 +49,11 @@
     </picture>
   </a>
 </h2>
+
+<p align="center">
+  <a href="https://github.com/if-then-nvim/if.lsp">
+    <img src="https://raw.githubusercontent.com/if-then-nvim/if.lsp/main/assets/hero.webp" width="100%" alt="if.lsp">
+  </a>
+</p>
+
+<br>
