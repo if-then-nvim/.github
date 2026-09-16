@@ -57,3 +57,20 @@
 </p>
 
 <br>
+
+<h2 align="center">
+  <a href="https://github.com/if-then-nvim/if.ink">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/if-then-nvim/if.ink/main/assets/logo-dark.svg">
+      <img src="https://raw.githubusercontent.com/if-then-nvim/if.ink/main/assets/logo-light.svg" height="44" alt="if.ink">
+    </picture>
+  </a>
+</h2>
+
+<p align="center">
+  <a href="https://github.com/if-then-nvim/if.ink">
+    <img src="https://raw.githubusercontent.com/if-then-nvim/if.ink/main/assets/hero.webp" width="100%" alt="if.ink">
+  </a>
+</p>
+
+<br>
